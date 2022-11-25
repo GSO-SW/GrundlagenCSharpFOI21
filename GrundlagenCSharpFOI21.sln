@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1AufgabenLoesung", "1Aufgab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1Konsolenausgabe-A2-N2", "1Konsolenausgabe-A2-N2\1Konsolenausgabe-A2-N2.csproj", "{68951C01-766F-4BE0-85F4-2340AFF05827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klassenarbeit1", "Klassenarbeit1\Klassenarbeit1.csproj", "{72EA6F5B-D832-49FE-8A27-75B9202CE768}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Klassenarbeit1", "Klassenarbeit1\Klassenarbeit1.csproj", "{72EA6F5B-D832-49FE-8A27-75B9202CE768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Kontrollstrukturen", "3Kontrollstrukturen\3Kontrollstrukturen.csproj", "{4013CE69-25D2-44D0-8FB1-CCA416191F50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{72EA6F5B-D832-49FE-8A27-75B9202CE768}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72EA6F5B-D832-49FE-8A27-75B9202CE768}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72EA6F5B-D832-49FE-8A27-75B9202CE768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4013CE69-25D2-44D0-8FB1-CCA416191F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4013CE69-25D2-44D0-8FB1-CCA416191F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4013CE69-25D2-44D0-8FB1-CCA416191F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4013CE69-25D2-44D0-8FB1-CCA416191F50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
