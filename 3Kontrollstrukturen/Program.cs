@@ -8,21 +8,21 @@ Console.WriteLine("Geben Sie die zweite Zahl ein:");
 double zahl2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("------------------");
 
-if (zahl1 == zahl2)
+if (zahl1 < zahl2)
 {
-//ja
+    Console.WriteLine($"Die kleinere Zahl ist: {zahl1}");
 
 }
 else
 {
     //nein
-    if (zahl1 < zahl2) 
+    if (zahl2 < zahl1) 
     {
-        //ja
+        Console.WriteLine($"Die kleinere Zahl ist: {zahl2}");
     }
     else
     {
-        //nein
+        Console.WriteLine("Gleicher Wert");
     }
 
 }
