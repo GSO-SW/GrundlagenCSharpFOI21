@@ -111,3 +111,6 @@ switch (operat)
         Console.WriteLine($"Ihr Ergebnis ist: {Math.Pow(zahl1, zahl2)}");
         break;
 }
+
+
+
